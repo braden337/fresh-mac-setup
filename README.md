@@ -1,5 +1,5 @@
 # fresh-mac-setup
-After a clean install of Mac OS X, here are the things you should do =>
+After a clean install of Mac OS X, here are the things you should do :arrow_down:
 
 :cat2:
 

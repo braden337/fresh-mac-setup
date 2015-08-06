@@ -15,6 +15,6 @@ After a clean install of Mac OS X, here are the things you should do :cat2:
 INPUT MONO FONT http://input.fontbureau.com/download/
 
 
-```ShellSession
+```shell
 echo 'group=0' >> ~/.npmrc; echo 'gem: --no-ri --no-rdoc' >> ~/.gemrc;
 ```

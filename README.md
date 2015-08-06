@@ -9,10 +9,8 @@ After a clean install of Mac OS X, here are the things you should do :cat2:
 6. Run `brew tap caskroom/versions`
 7. Run `brew update`
 8. Run `brew install zsh python python3 ruby node`
-9. Run
-```shell
-echo 'group=0' >> ~/.npmrc; echo 'gem: --no-ri --no-rdoc' >> ~/.gemrc;
-```
+9. Run `echo 'group=0' >> ~/.npmrc; echo 'gem: --no-ri --no-rdoc' >> ~/.gemrc;`
 10. Run `brew cask install iterm2 sublime-text3 google-chrome firefoxdeveloperedition adium;`
+11. Run `npm install -g gulp castnow nodetree`
 
 INPUT MONO FONT http://input.fontbureau.com/download/

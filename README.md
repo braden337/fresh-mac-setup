@@ -1,5 +1,5 @@
 # fresh-mac-setup
-After a clean install of Mac OS X, here are the things you should do
+After a clean install of Mac OS X, here are the things you should do =>
 
 :cat2:
 
@@ -11,7 +11,7 @@ After a clean install of Mac OS X, here are the things you should do
 6. Run `brew tap caskroom/versions`
 7. Run `brew update`
 8. Run `brew install zsh python python3 ruby node`
-9. Run `brew cask install google-chrome firefoxdeveloperedition adium`
+9. Run `brew cask install iterm2 sublime-text3 google-chrome firefoxdeveloperedition adium`
 
 
 

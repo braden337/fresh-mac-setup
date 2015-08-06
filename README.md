@@ -1,5 +1,5 @@
 # fresh-mac-setup
-The things I do when I go for a clean install of Mac OS X
+After a clean install of Mac OS X, here are the things you should do :bug:
 
 1. Install any pending OS updates from the App Store
 2. Install Xcode from the App Store so you have certain commandline tools that are needed when installing other things listed below

@@ -42,3 +42,6 @@ brew install vim ruby python python3 node
 install input mono font
 
 and set iterm2 font as 18pt input mono thin
+
+
+- http://dougblack.io/words/a-good-vimrc.html#colors
